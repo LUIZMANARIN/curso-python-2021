@@ -1,0 +1,5 @@
+b=(int(input('qual é o valor de b ?')))
+a=(int(input ('qual é o valor a ?')))
+c=(int(input('qual é o valor c ?')))
+delta =(b**2)-(4*a*c)
+print('o valor do delta é {}'.format(delta))
